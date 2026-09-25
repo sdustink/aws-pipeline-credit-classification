@@ -1,4 +1,4 @@
-# AWS Pipeline Credit Classification
+# AWS Pipeline Credit Score Classification
 
 An end-to-end **credit score classification project** covering data preprocessing, exploratory data analysis, machine learning model development, hyperparameter tuning, and deployment. The project includes both **cloud deployment using AWS SageMaker** and **local deployment using FastAPI and Streamlit**.
 
